@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadruped Robot
-author: [Richard Kuo]
+author: [Yongstellar]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
